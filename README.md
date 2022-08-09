@@ -4,5 +4,5 @@
   <img src="banner.png" >
 </p>
 
-Raphael Lins
-Meu portífoio de projetos Data Science
+#Raphael Lins
+<sub>Meu portífoio de projetos *Data Science*</sub>
